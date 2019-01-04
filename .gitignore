@@ -4,3 +4,5 @@ __pycache__
 app/__pycache__
 venvflask
 .DS_Store
+migrations
+*.db
