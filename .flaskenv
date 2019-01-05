@@ -1,2 +1,4 @@
 FLASK_APP=tutorialmicroblog.py
 FLASK_DEBUG=1
+LOG_TO_STDOUT=1
+DATABASE_URL=postgresql-trapezoidal-11935
